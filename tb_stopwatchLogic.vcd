@@ -1,0 +1,236 @@
+$date
+	Mon Nov 14 07:43:45 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb_stopwatchLogic $end
+$var wire 1 ! tenable $end
+$var wire 1 " tresetCount $end
+$var wire 1 # tup $end
+$var reg 1 $ tclk $end
+$var reg 1 % tcountDown $end
+$var reg 1 & tresetButton $end
+$var reg 1 ' tstart $end
+$var reg 1 ( tstop $end
+$scope module dut $end
+$var wire 1 ) clk $end
+$var wire 1 * countDown $end
+$var wire 1 ! enable $end
+$var wire 1 + resetButton $end
+$var wire 1 " resetCount $end
+$var wire 1 , start $end
+$var wire 1 - stop $end
+$var wire 1 # up $end
+$var reg 1 . S $end
+$var reg 1 / nS $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0/
+x.
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+x!
+$end
+#10
+0.
+0!
+1$
+1)
+#20
+0$
+0)
+#30
+1$
+1)
+#40
+1/
+0$
+0)
+1'
+1,
+#50
+1.
+1!
+1$
+1)
+#60
+0$
+0)
+0'
+0,
+#70
+1$
+1)
+#80
+0$
+0)
+#90
+1$
+1)
+#100
+0/
+0$
+0)
+1(
+1-
+#110
+0.
+0!
+1$
+1)
+#120
+0$
+0)
+0(
+0-
+#130
+1$
+1)
+#140
+0$
+0)
+#150
+1$
+1)
+#160
+1"
+0$
+0)
+1&
+1+
+#170
+1$
+1)
+#180
+0"
+0$
+0)
+0&
+0+
+#190
+1$
+1)
+#200
+0$
+0)
+#210
+1$
+1)
+#220
+0$
+0)
+1%
+1#
+1*
+#230
+1$
+1)
+#240
+1/
+0$
+0)
+1'
+1,
+#250
+1.
+1!
+1$
+1)
+#260
+0$
+0)
+1(
+1-
+#270
+1$
+1)
+#280
+0$
+0)
+1&
+1+
+#290
+1$
+1)
+#300
+0$
+0)
+0(
+0-
+#310
+1$
+1)
+#320
+0/
+0$
+0)
+1(
+1-
+0'
+0,
+#330
+1"
+0.
+0!
+1$
+1)
+#340
+0$
+0)
+#350
+1$
+1)
+#360
+0$
+0)
+1'
+1,
+#370
+1$
+1)
+#380
+0"
+0$
+0)
+0&
+0+
+#390
+1$
+1)
+#400
+1/
+0$
+0)
+0(
+0-
+#410
+1.
+1!
+1$
+1)
+#420
+0$
+0)
+#430
+1$
+1)
+#440
+0$
+0)
